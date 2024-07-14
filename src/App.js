@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import Body from "./components/Body";
 
 function App() {
   return (
-    <div className="App text-2xl text-green-700 font-bold">
-      hello world from swapna sruthi
+    <div>
+        <Body/>
     </div>
   );
 }
